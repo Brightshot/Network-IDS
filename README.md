@@ -259,7 +259,7 @@ Based on the evaluation, the models achieve the following performance:
 4. **XGBoost** is the most efficient in terms of training time vs. performance
 5. All models successfully identify normal vs. attack traffic with high confidence
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 ### Machine Learning Libraries
 - **scikit-learn** (v1.8.0): Random Forest implementation
